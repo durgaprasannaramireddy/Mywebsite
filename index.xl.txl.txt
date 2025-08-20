@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> My wedapp/title>
+</head>
+<body>
+<h1>welcome to QIS</h1>
+<h2>deploy wed app in render cloud</h2>
+</body>
+</html>
